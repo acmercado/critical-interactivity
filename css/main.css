@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap');
+
+body {
+	background-color: #ffdbfd;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Julius Sans One', sans-serif;
+	font-style: normal;
+	padding-top: 5vh;
+}
+
+p {
+	font-family: 'Julius Sans One', sans-serif;
+	font-style: normal;
+}
+
+.play {
+	padding-top: 30vh;
+	padding-bottom: 20vh;
+}
+
+#start {
+	width: 50vw;
+	height: 30vh;
+}
+
+#set1 {
+	display: inline-block;
+	float: left;
+	padding-left: 15vw;
+}
+
+#set2 {
+	display: inline-block;
+	float: right;
+	padding-right: 15vw;
+	padding-top: 7vh;
+}
+
+#set3 {
+	display: inline-block;
+	float: left;
+	padding-top: 12vh;
+	padding-left: 12vw;
+}
+
+#set4 {
+	display: inline-block;
+	float: right;
+	padding-right: 15vw;
+	padding-top: 7vh;
+}
+
+#set5 {
+	display: inline-block;
+	float: left;
+	padding-left: 15vw;
+	padding-top: 5vh;
+}
+
+#set6 {
+	display: inline-block;
+	float: right;
+	padding-right: 15vw;
+	padding-top: 3vh;
+}
+
+#set7 {
+	display: inline-block;
+	float: left;
+	padding-left: 10vw;
+	padding-top: 10vh;
+}
+
+#set8 {
+	display: inline-block;
+	float: right;
+	padding-right: 15vw;
+	padding-top: 10vh;
+}
+
+#set10 {
+	display: inline-block;
+	float: left;
+	padding-left: 20vw;
+	padding-top: 10vh;
+}
+
+#set12 {
+	display: inline-block;
+	float: right;
+	padding-right: 20vw;
+	padding-top: 10vh;
+}
+
+#set14 {
+	display: inline-block;
+	padding-top: 3vh;
+}
